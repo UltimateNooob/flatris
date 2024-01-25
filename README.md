@@ -12,4 +12,4 @@ Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat desi
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
-tweaking this as a test to see if i can get my branch to merge.... fingers crossed
+tweaking this as a test to see if i can get my branch to merge.... fingers crossed maybe
